@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "Models\synth\synth"
+	"$bumpmap" "Models\synth\synth_normal"
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1" 
+	"$phongfresnelranges" "[0.09 0.1 0.1]" //glossy like your MacBook
+	"$halflambert "1"
+	"$phongfresnelranges "[0.4 2.1 30]"
+	"$ambientocclusion "1"
+
+	"$rimlight "1"
+	"$rimlightexponent "0.5"
+	"$rimlightboost "0.5"
+}
